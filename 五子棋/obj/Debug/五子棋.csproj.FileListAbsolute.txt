@@ -1,0 +1,14 @@
+F:\QQ个人空间\五子棋\bin\Debug\五子棋.exe
+F:\QQ个人空间\五子棋\bin\Debug\五子棋.pdb
+F:\QQ个人空间\五子棋\obj\Debug\五子棋.csproj.AssemblyReference.cache
+F:\QQ个人空间\五子棋\obj\Debug\MainWindow.g.cs
+F:\QQ个人空间\五子棋\obj\Debug\App.g.cs
+F:\QQ个人空间\五子棋\obj\Debug\五子棋_MarkupCompile.cache
+F:\QQ个人空间\五子棋\obj\Debug\五子棋_MarkupCompile.lref
+F:\QQ个人空间\五子棋\obj\Debug\MainWindow.baml
+F:\QQ个人空间\五子棋\obj\Debug\五子棋.g.resources
+F:\QQ个人空间\五子棋\obj\Debug\五子棋.Properties.Resources.resources
+F:\QQ个人空间\五子棋\obj\Debug\五子棋.csproj.GenerateResource.cache
+F:\QQ个人空间\五子棋\obj\Debug\五子棋.csproj.CoreCompileInputs.cache
+F:\QQ个人空间\五子棋\obj\Debug\五子棋.exe
+F:\QQ个人空间\五子棋\obj\Debug\五子棋.pdb
